@@ -1,3 +1,5 @@
+# https://colab.research.google.com/drive/1OamHk8uGThQN8EBiCrwBAbQ-FPGCyEeR?usp=sharing
+
 """
 基本統計量を求める。以下の数値を算出する式を書く。
 行列演算ではなくfor文章を用いること。
